@@ -1,0 +1,263 @@
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\appsettings.json
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\QuanlyUser.exe
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\QuanlyUser.deps.json
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\QuanlyUser.runtimeconfig.json
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\QuanlyUser.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\QuanlyUser.pdb
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\Humanizer.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tuanv\source\repos\QuanlyUser\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\tuanv\source\repos\QuanlyUser\obj\Debug\net6.0\QuanlyUser.csproj.AssemblyReference.cache
+C:\Users\tuanv\source\repos\QuanlyUser\obj\Debug\net6.0\QuanlyUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuanv\source\repos\QuanlyUser\obj\Debug\net6.0\QuanlyUser.AssemblyInfoInputs.cache
+C:\Users\tuanv\source\repos\QuanlyUser\obj\Debug\net6.0\QuanlyUser.AssemblyInfo.cs
+C:\Users\tuanv\source\repos\QuanlyUser\obj\Debug\net6.0\QuanlyUser.csproj.CoreCompileInputs.cache
+C:\Users\tuanv\source\repos\QuanlyUser\obj\Debug\net6.0\QuanlyUser.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tuanv\source\repos\QuanlyUser\obj\Debug\net6.0\QuanlyUser.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tuanv\source\repos\QuanlyUser\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tuanv\source\repos\QuanlyUser\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tuanv\source\repos\QuanlyUser\obj\Debug\net6.0\scopedcss\bundle\QuanlyUser.styles.css
+C:\Users\tuanv\source\repos\QuanlyUser\obj\Debug\net6.0\QuanlyUser.csproj.CopyComplete
+C:\Users\tuanv\source\repos\QuanlyUser\obj\Debug\net6.0\QuanlyUser.dll
+C:\Users\tuanv\source\repos\QuanlyUser\obj\Debug\net6.0\refint\QuanlyUser.dll
+C:\Users\tuanv\source\repos\QuanlyUser\obj\Debug\net6.0\QuanlyUser.pdb
+C:\Users\tuanv\source\repos\QuanlyUser\obj\Debug\net6.0\QuanlyUser.genruntimeconfig.cache
+C:\Users\tuanv\source\repos\QuanlyUser\obj\Debug\net6.0\ref\QuanlyUser.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\appsettings.Development.json
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\appsettings.json
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\QuanlyUser.exe
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\QuanlyUser.deps.json
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\QuanlyUser.runtimeconfig.json
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\QuanlyUser.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\QuanlyUser.pdb
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Humanizer.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\QuanlyUser.csproj.AssemblyReference.cache
+D:\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\QuanlyUser.GeneratedMSBuildEditorConfig.editorconfig
+D:\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\QuanlyUser.AssemblyInfoInputs.cache
+D:\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\QuanlyUser.AssemblyInfo.cs
+D:\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\QuanlyUser.csproj.CoreCompileInputs.cache
+D:\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\QuanlyUser.MvcApplicationPartsAssemblyInfo.cs
+D:\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\QuanlyUser.MvcApplicationPartsAssemblyInfo.cache
+D:\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\staticwebassets\msbuild.QuanlyUser.Microsoft.AspNetCore.StaticWebAssets.props
+D:\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\staticwebassets\msbuild.build.QuanlyUser.props
+D:\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QuanlyUser.props
+D:\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QuanlyUser.props
+D:\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\staticwebassets.pack.json
+D:\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\staticwebassets.build.json
+D:\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\staticwebassets.development.json
+D:\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\scopedcss\bundle\QuanlyUser.styles.css
+D:\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\QuanlyUser.csproj.CopyComplete
+D:\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\QuanlyUser.dll
+D:\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\refint\QuanlyUser.dll
+D:\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\QuanlyUser.pdb
+D:\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\QuanlyUser.genruntimeconfig.cache
+D:\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\ref\QuanlyUser.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\appsettings.json
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\QuanlyUser.exe
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\QuanlyUser.deps.json
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\QuanlyUser.runtimeconfig.json
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\QuanlyUser.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\QuanlyUser.pdb
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Humanizer.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\QuanlyUser.csproj.AssemblyReference.cache
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\QuanlyUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\QuanlyUser.AssemblyInfoInputs.cache
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\QuanlyUser.AssemblyInfo.cs
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\QuanlyUser.csproj.CoreCompileInputs.cache
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\QuanlyUser.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\QuanlyUser.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\staticwebassets\msbuild.QuanlyUser.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\staticwebassets\msbuild.build.QuanlyUser.props
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QuanlyUser.props
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QuanlyUser.props
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\scopedcss\bundle\QuanlyUser.styles.css
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\QuanlyUser.csproj.CopyComplete
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\QuanlyUser.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\refint\QuanlyUser.dll
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\QuanlyUser.pdb
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\QuanlyUser.genruntimeconfig.cache
+C:\Users\THANH GIONG\Downloads\64cs2-2-shoppingapp\Backend\obj\Debug\net6.0\ref\QuanlyUser.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\appsettings.json
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\QuanlyUser.exe
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\QuanlyUser.deps.json
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\QuanlyUser.runtimeconfig.json
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\QuanlyUser.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\QuanlyUser.pdb
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\Humanizer.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\obj\Debug\net6.0\QuanlyUser.csproj.AssemblyReference.cache
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\obj\Debug\net6.0\QuanlyUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\obj\Debug\net6.0\QuanlyUser.AssemblyInfoInputs.cache
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\obj\Debug\net6.0\QuanlyUser.AssemblyInfo.cs
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\obj\Debug\net6.0\QuanlyUser.csproj.CoreCompileInputs.cache
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\obj\Debug\net6.0\QuanlyUser.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\obj\Debug\net6.0\QuanlyUser.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\obj\Debug\net6.0\staticwebassets\msbuild.QuanlyUser.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\obj\Debug\net6.0\staticwebassets\msbuild.build.QuanlyUser.props
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QuanlyUser.props
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QuanlyUser.props
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\obj\Debug\net6.0\scopedcss\bundle\QuanlyUser.styles.css
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\obj\Debug\net6.0\QuanlyUser.csproj.CopyComplete
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\obj\Debug\net6.0\QuanlyUser.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\obj\Debug\net6.0\refint\QuanlyUser.dll
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\obj\Debug\net6.0\QuanlyUser.pdb
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\obj\Debug\net6.0\QuanlyUser.genruntimeconfig.cache
+C:\Users\THANH GIONG\Downloads\65cs2-5-shoppingapp\Backend\obj\Debug\net6.0\ref\QuanlyUser.dll
